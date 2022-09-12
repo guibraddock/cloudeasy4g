@@ -2,10 +2,10 @@
     "Version": "1.0",
     "ReleaseNotes": "Nova atualização disponível!",
     "Sms": "https://app.cloudeasybrasil.com.br/update/guibraddock/sms",
-    "UrlUpdate": "https://app.cloudeasybrasil.com.br/update/guibraddock/config",
+    "UrlUpdate": "https://raw.githubusercontent.com/guibraddock/cloudeasy4g/main/attcloudeasyvpn",
     "EmailFeedback": "cloudeasyoficial@gmail.com",
-    "UrlContato": "https://instagram.com/cloudeasyoficial?igshid=YmMyMTA2M2Y=",
-    "UrlTermos": "https://www.speedtest.net/pt",
+    "UrlContato": "https://t.me/guibraddock",
+    "UrlTermos": "https://raw.githubusercontent.com/guibraddock/cloudeasy4g/main/termos",
     "CheckUser": "true",
     "Udp": [
         {
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "SERVIDOR AZURE 01",
+            "Name": "SERVIDOR | 01",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "br01.cloudeasyoficial.xyz",
@@ -25,7 +25,7 @@
             "PASS": ""
         },
         {
-            "Name": "SERVIDOR AZURE 02",
+            "Name": "SERVIDOR | 02",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "br02.cloudeasyoficial.xyz",
