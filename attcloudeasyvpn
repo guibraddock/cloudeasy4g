@@ -1,5 +1,5 @@
 {
-    "Version": "1.0",
+    "Version": "1.1",
     "ReleaseNotes": "Nova atualização disponível!",
     "Sms": "https://app.cloudeasybrasil.com.br/update/guibraddock/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/guibraddock/cloudeasy4g/main/attcloudeasyvpn",
@@ -50,7 +50,7 @@
         {
             "Name": "TIM TESTE",
             "FLAG": "claro",
-            "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: domínio [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "duvidas.ampli.com.br",
             "TlsIP": "104.16.53.111",
             "ProxyIP": "",
@@ -60,7 +60,7 @@
         {
             "Name": "TIM TESTE 2",
             "FLAG": "claro",
-            "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: domínio [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "duvidas.ampli.com.br",
             "TlsIP": "duvidas.ampli.com.br",
             "ProxyIP": "",
