@@ -1,5 +1,5 @@
 {
-    "Version": "98",
+    "Version": "99",
     "ReleaseNotes": "Nova atualização disponível!",
     "Sms": "https://app.cloudeasybrasil.com.br/update/guibraddock/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/guibraddock/cloudeasy4g/main/attcloudeasyvpn",
@@ -14,22 +14,11 @@
     ],
     "Servers": [
         {
-            "Name": "SERVIDOR AZURE | 01",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "br01.cloudeasyoficial.xyz",
-            "CheckUser": "http://br01check.cloudeasyoficial.xyz:5454/checkUser",
-            "ServerPort": "22",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-        },
-        {
-            "Name": "SERVIDOR AZURE | 02",
+            "Name": "OPERADORA A BAIXO 👇",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "br02.cloudeasyoficial.xyz",
-            "CheckUser": "http://br02check.cloudeasyoficial.xyz:5454/checkUser",
+            "CheckUser": "br02check.cloudeasyoficial.xyz:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
@@ -247,15 +236,15 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-    { 
-      "Name":"❤️CLARO 2.0",
-      "FLAG": "claro",
-      "Payload": "GET wss://go.launchdarkly.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "go.launchdarkly.com",
-      "TlsIP": "go.launchdarkly.com",
-      "ProxyIP": "104.17.72.206",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
+    {
+      "Name": "CLARO VPS",
+      "FLAG": "claro",
+      "Payload": "GET http://faq.claro.com.br HTTP/1.0[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "20.195.210.13",
+      "ProxyPort": "80",
+      "Info": "Proxy"
     },
     {
       "Name": "🟡OI 1 🟢",
