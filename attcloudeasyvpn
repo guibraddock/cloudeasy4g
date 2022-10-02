@@ -207,16 +207,6 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
-{
-"Name": "VIVO WHATSAPP",
-"FLAG": "vivo",
-"Payload": "GET wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-"SNI": "onepiece.com",
-"TlsIP": "172.64.131.2",
-"ProxyIP": "",
-"ProxyPort": "443",
-"Info": "Tlsws"
-    },
     {
       "Name": "📱 𝕋𝕀𝕄 𝟝𝔾 𝟘𝟡 📡 💙", 
       "FLAG": "tim", 
@@ -276,7 +266,7 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-},
+    },
     {
       "Name": "TIM l OI l VIVO l CLARO",
     "FLAG": "tim",
