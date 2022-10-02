@@ -23,6 +23,17 @@
             "SSLPort": "443",
             "USER": "",
             "PASS": ""
+        },
+        {
+            "Name": "SERVIDOR AZURE 02",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "br02.cloudeasyoficial.xyz",
+            "CheckUser": "http://br02check.cloudeasyoficial.xyz:5454/checkUser",
+            "ServerPort": "22",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
         }
     ],
     "Networks": [
