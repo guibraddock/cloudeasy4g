@@ -1,5 +1,5 @@
 {
-    "Version": "101",
+    "Version": "102",
     "ReleaseNotes": "Nova atualizaÃ§Ã£o disponÃ­vel!",
     "Sms": "https://raw.githubusercontent.com/guibraddock/cloudeasy4g/main/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/guibraddock/cloudeasy4g/main/attcloudeasyvpn",
@@ -14,18 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "SERVIDOR AZURE 01",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "br01.cloudeasyoficial.xyz",
-            "CheckUser": "http://br01check.cloudeasyoficial.xyz:5454/checkUser",
-            "ServerPort": "22",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-        },
-        {
-            "Name": "SERVIDOR AZURE 02",
+            "Name": "OPERADORA A BAIXO 👇",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "br02.cloudeasyoficial.xyz",
@@ -47,16 +36,16 @@
             "ProxyPort": "",
             "Info": "Tlsws"
         },
-        {
-            "Name": "CLARO ON",
-            "FLAG": "claro",
-            "Payload": "GET wss://player-api.new.livestream.com HTTP/1.1[lf]Host: [host_app][crlf]Upgrade: websocket[crlf][crlf]rn",
-            "SNI": "player-api.new.livestream.com",
-            "TlsIP": "player-api.new.livestream.com",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Tlsws"
-        },
+        { 
+     "Name": "🔴 CLARO 01",
+     "FLAG": "claro", 
+     "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]", 
+     "SNI": "Atendimento.descomplica.com.br", 
+     "TlsIP": "Atendimento.descomplica.com.br", 
+     "ProxyIP": "", 
+     "ProxyPort": "443", 
+     "Info": "Tlsws"  
+},
         {
             "Name": "OI TLS 01",
             "FLAG": "oi",
