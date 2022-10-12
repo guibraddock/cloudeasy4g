@@ -1,5 +1,5 @@
 {
-    "Version": "102",
+    "Version": "103",
     "ReleaseNotes": "Nova atualização disponível!!",
     "Sms": "https://app.cloudeasybrasil.com.br/update/guibraddock/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/guibraddock/cloudeasy4g/main/attcloudeasyvpn",
@@ -77,14 +77,14 @@
             "Info": "Tlsws"
         },
         {
-        "Name": "TIM 01 ATIVO",✅
-      "FLAG": "tim",
-      "Payload": "GET wss://auth-uat-us.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-       "SNI": "auth-uat-us.surveymonkey.com",
-       "TlsIP": "104.18.7.22",
-       "ProxyIP": "",
-       "ProxyPort": "443",
-       "Info": "Tlsws"
+            "Name": "TIM 01 ATIVO",
+            "FLAG": "tim",
+            "Payload": "GET wss://auth-uat-us.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "auth-uat-us.surveymonkey.com",
+            "TlsIP": "104.18.7.22",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
         },
         {
             "Name": "CLARO",
