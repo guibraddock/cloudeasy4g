@@ -1,5 +1,5 @@
 {
-    "Version": "2",
+    "Version": "3",
     "ReleaseNotes": "Nova atualização disponível!!",
     "Sms": "https://app.cloudeasybrasil.com.br/update/guibraddock/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/guibraddock/cloudeasy4g/main/attcloudeasyvpn",
@@ -34,6 +34,26 @@
             "TlsIP": "104.16.53.111",
             "ProxyIP": "104.16.53.111",
             "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        { 
+            "Name": "VIVO CLOUD",
+            "FLAG": "vivo",
+            "Payload": "GET wss://mobilidade.cloud.caixa.gov.br HTTP/1.0[crlf]Host: [app_host][crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "162.159.130.62",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "📱VIVO📡",
+            "FLAG": "vivo",
+            "Payload": "GET wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "mobilidade.cloud.caixa.gov.br",
+            "TlsIP": "162.159.133.62",
+            "ProxyIP": "",
+            "ProxyPort": "",
             "Info": "Tlsws"
         },
         {
