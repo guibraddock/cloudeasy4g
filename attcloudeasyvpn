@@ -1,5 +1,5 @@
 {
-    "Version": "3",
+    "Version": "4",
     "ReleaseNotes": "Nova atualização disponível!!",
     "Sms": "https://app.cloudeasybrasil.com.br/update/guibraddock/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/guibraddock/cloudeasy4g/main/attcloudeasyvpn",
@@ -14,11 +14,22 @@
     ],
     "Servers": [
         {
-            "Name": "OPERADORA A BAIXO 👇",
-            "TYPE": "premium",
-            "FLAG": "br.png",
+            "Name": "FREE",
+            "TYPE": "free",
+            "FLAG": "ca.png",
             "ServerIP": "br02.cloudeasyoficial.xyz",
             "CheckUser": "http://br02check.cloudeasyoficial.xyz:5454/checkUser",
+            "ServerPort": "22",
+            "SSLPort": "443",
+            "USER": "free",
+            "PASS": "free"
+        },
+        {
+            "Name": "PREMIUM",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "br01.cloudeasyoficial.xyz",
+            "CheckUser": "http://br01check.cloudeasyoficial.xyz:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
