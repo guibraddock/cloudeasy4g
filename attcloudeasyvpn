@@ -1,5 +1,5 @@
 {
-    "Version": "4",
+    "Version": "5",
     "ReleaseNotes": "Nova atualização disponível!!",
     "Sms": "https://app.cloudeasybrasil.com.br/update/guibraddock/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/guibraddock/cloudeasy4g/main/attcloudeasyvpn",
@@ -21,8 +21,8 @@
             "CheckUser": "http://br02check.cloudeasyoficial.xyz:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
-            "USER": "free",
-            "PASS": "free"
+            "USER": "",
+            "PASS": ""
         },
         {
             "Name": "PREMIUM",
@@ -58,7 +58,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "📱VIVO📡",
+            "Name": "VIVO ON",
             "FLAG": "vivo",
             "Payload": "GET wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "mobilidade.cloud.caixa.gov.br",
