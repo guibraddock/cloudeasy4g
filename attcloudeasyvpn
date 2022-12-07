@@ -59,7 +59,7 @@
         },
         { 
              "Name": "OI CLOUD ✅",
-             "FLAG": "tim",
+             "FLAG": "oi",
              "Payload": "GET / HTTP/1.0[crlf]Host: [app_host][crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
              "SNI": "",
              "TlsIP": "",
