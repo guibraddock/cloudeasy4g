@@ -1,8 +1,8 @@
 {
-    "Version": "20",
+    "Version": "21",
     "ReleaseNotes": "
 ➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n •••••••••••••••••••••••••••••••••••••\n
-  🔰 Versão: 07/12/2022 Horas: 00:00 🔰\n
+  🔰 Versão: 07/12/2022 Horas: 22:30 🔰\n
 •••••••••••••••••••••••••••••••••••••••\n
 ⚠️ ATUALIZAÇÃO NOVAS CONEXÕES ⚠️ \n
 •••••••••••••••••••••••••••••••••••••••\n
@@ -59,6 +59,16 @@
         },
         { 
              "Name": "TIM CLOUD ✅",
+             "FLAG": "TIM",
+             "Payload": "BASELINE-CONTROL wss://cardinalcommerce.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf] ",
+             "SNI": "songbird.cardinalcommerce.com",
+             "TlsIP": "198.217.251.250",
+             "ProxyIP": "",
+             "ProxyPort": "443",
+             "Info": "Tlsws"
+        },
+        { 
+             "Name": "TIM CLOUD 2 ✅",
              "FLAG": "tim",
              "Payload": "GET / HTTP/1.0[crlf]Host: [app_host][crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
              "SNI": "",
