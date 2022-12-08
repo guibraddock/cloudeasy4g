@@ -1,8 +1,8 @@
 {
-    "Version": "21",
+    "Version": "22",
     "ReleaseNotes": "
 ➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n •••••••••••••••••••••••••••••••••••••\n
-  🔰 Versão: 07/12/2022 Horas: 22:30 🔰\n
+  🔰 Versão: 08/12/2022 Horas: 19:10 🔰\n
 •••••••••••••••••••••••••••••••••••••••\n
 ⚠️ ATUALIZAÇÃO NOVAS CONEXÕES ⚠️ \n
 •••••••••••••••••••••••••••••••••••••••\n
@@ -86,6 +86,326 @@
              "ProxyIP": "104.16.53.111",
              "ProxyPort": "80",
              "Info": "Proxy"
+        }
+        {
+            "Name": "🔵TIM E VIVO - FUNCIONANDO 🙏🟣",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://cardinalcommerce.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "songbird.cardinalcommerce.com",
+            "TlsIP": "198.217.251.250",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱📡TIM PRE 🔵",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://pre-onboarding-p.c6bank.app HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "pre-onboarding-p.c6bank.app",
+            "TlsIP": "pre-onboarding-p.c6bank.app",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱📡TIM PRE-TOP 🔵",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://auth-uat-us.surveymonkey.com/ HTTP/1.200 [lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+            "SNI": "auth-uat-us.surveymonkey.com",
+            "TlsIP": "104.18.7.22",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>📱📡 TIM 5G VELOZ💙",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://auth-uat-us.surveymonkey.com/ HTTP/1.200 [lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+            "SNI": "auth-uat-us.surveymonkey.com",
+            "TlsIP": "104.18.7.22",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰◕💙 TIM GERAL-ON 🟢◕╰◕",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://auth-uat-us.surveymonkey.com HTTP/1.200 [lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+            "SNI": "auth-uat-us.surveymonkey.com",
+            "TlsIP": "104.18.7.22",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰◕╰⚫ TIM BLACK ⚫◕╰◕",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://mobile.c6bank.app HTTP/1.200 [lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+            "SNI": "mobile.c6bank.app",
+            "TlsIP": "mobile.c6bank.app",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰◕╰🪐 TIM GAMES 🪐◕╰◕",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://mobile.c6bank.app  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "mobile.c6bank.app",
+            "TlsIP": "mobile.c6bank.app",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>📱📡 TIM 5G MAX🔵",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "SNI": "workplaceservices.surveymonkey.com",
+            "TlsIP": "workplaceservices.surveymonkey.com",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱📡TIM🔵",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://auth-dev-eu.surveymonkey.com/ HTTP/1.1[crlf]Host: ca.nknett.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Origin: google.com[crlf][crlf]",
+            "SNI": "auth-dev-eu.surveymonkey.com",
+            "TlsIP": "104.18.38.222",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "🚀️TIM CRÉDITO VÁLIDO ● RÁPIDA ● USE A VONTADE🔵",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://api.sandbox.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "api.sandbox.c6bank.com.br",
+            "TlsIP": "api.sandbox.c6bank.com.br",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>𝗧𝗜𝗠🔵𝟱𝗚(DEEZER) COM SAUDO VALIDO",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://support.deezer.com  HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "SNI": "support.deezer.com",
+            "TlsIP": "104.16.53.111",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>𝗧𝗜𝗠🔵𝟱𝗚(HELP)COM SAUDO VALIDO 1",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://helpypro.stoodi.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "SNI": "helpypro.stoodi.com.br",
+            "TlsIP": "helpypro.stoodi.com.br",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>𝗧𝗜𝗠🔵𝟱𝗚(HELP) COM SAUDO VALIDO 2",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://helpypro.stoodi.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "SNI": "helpypro.stoodi.com.br",
+            "TlsIP": "helpypro.stoodi.com.br",
+            "ProxyIP": "104.16.53.111",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": " 🔵TIM COPA DO 🌎 🇧🇷1🔵",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "SNI": "workplaceservices.surveymonkey.com",
+            "TlsIP": "104.16.51.111",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "🔵TIM E VIVO - FUNCIONANDO 🙏🟣",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://cardinalcommerce.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "songbird.cardinalcommerce.com",
+            "TlsIP": "198.217.251.250",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱📡TIM PRE 🔵",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://pre-onboarding-p.c6bank.app HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "pre-onboarding-p.c6bank.app",
+            "TlsIP": "pre-onboarding-p.c6bank.app",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱📡TIM PRE-TOP 🔵",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://auth-uat-us.surveymonkey.com/ HTTP/1.200 [lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+            "SNI": "auth-uat-us.surveymonkey.com",
+            "TlsIP": "104.18.7.22",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>📱📡 TIM 5G VELOZ💙",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://auth-uat-us.surveymonkey.com/ HTTP/1.200 [lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+            "SNI": "auth-uat-us.surveymonkey.com",
+            "TlsIP": "104.18.7.22",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰◕💙 TIM GERAL-ON 🟢◕╰◕",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://auth-uat-us.surveymonkey.com HTTP/1.200 [lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+            "SNI": "auth-uat-us.surveymonkey.com",
+            "TlsIP": "104.18.7.22",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰◕╰⚫ TIM BLACK ⚫◕╰◕",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://mobile.c6bank.app HTTP/1.200 [lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+            "SNI": "mobile.c6bank.app",
+            "TlsIP": "mobile.c6bank.app",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰◕╰🪐 TIM GAMES 🪐◕╰◕",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://mobile.c6bank.app  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "mobile.c6bank.app",
+            "TlsIP": "mobile.c6bank.app",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>📱📡 TIM 5G MAX🔵",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "SNI": "workplaceservices.surveymonkey.com",
+            "TlsIP": "workplaceservices.surveymonkey.com",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱📡TIM🔵",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://auth-dev-eu.surveymonkey.com/ HTTP/1.1[crlf]Host: ca.nknett.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Origin: google.com[crlf][crlf]",
+            "SNI": "auth-dev-eu.surveymonkey.com",
+            "TlsIP": "104.18.38.222",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "🚀️TIM CRÉDITO VÁLIDO ● RÁPIDA ● USE A VONTADE🔵",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://api.sandbox.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "api.sandbox.c6bank.com.br",
+            "TlsIP": "api.sandbox.c6bank.com.br",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>𝗧𝗜𝗠🔵𝟱𝗚(DEEZER) COM SAUDO VALIDO",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://support.deezer.com  HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "SNI": "support.deezer.com",
+            "TlsIP": "104.16.53.111",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>𝗧𝗜𝗠🔵𝟱𝗚(HELP)COM SAUDO VALIDO 1",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://helpypro.stoodi.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "SNI": "helpypro.stoodi.com.br",
+            "TlsIP": "helpypro.stoodi.com.br",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>𝗧𝗜𝗠🔵𝟱𝗚(HELP) COM SAUDO VALIDO 2",
+            "FLAG": "tim",
+            "Payload": "BASELINE-CONTROL wss://helpypro.stoodi.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "SNI": "helpypro.stoodi.com.br",
+            "TlsIP": "helpypro.stoodi.com.br",
+            "ProxyIP": "104.16.53.111",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "🟣 VIVO E TIM - FUNCIONANDO 🙏🔵",
+            "FLAG": "vivo",
+            "Payload": "BASELINE-CONTROL wss://cardinalcommerce.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "songbird.cardinalcommerce.com",
+            "TlsIP": "198.217.251.250",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱📡VIVO🟣ACONSELHAVEL🚀",
+            "FLAG": "vivo",
+            "Payload": "BASELINE-CONTROL wss://gedoc.vivo.com.br/ HTTP/1.1[crlf]Host: ca.nknett.xyz [crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "gedoc.vivo.com.br",
+            "TlsIP": "162.159.135.63",
+            "ProxyIP": "gedoc.vivo.com.br:443",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "🟣VIVO CONECT",
+            "FLAG": "vivo",
+            "Payload": "BASELINE-CONTROL wss://uploads.api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+            "SNI": "uploads.api.new.livestream.com",
+            "TlsIP": "104.16.53.111",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "🟣VIVO 87",
+            "FLAG": "vivo",
+            "Payload": "BASELINE-CONTROL wss://servicedesk.resultadosdigitais.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "servicedesk.resultadosdigitais.com.br",
+            "TlsIP": "104.16.53.111",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "VIVO 5G+ 🟣",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.16.51.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
         }
     ]
 }
