@@ -2,7 +2,7 @@
     "Version": "23",
     "ReleaseNotes": "
 ➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n •••••••••••••••••••••••••••••••••••••\n
-  🔰 Versão: 08/12/2022 Horas: 19:10 🔰\n
+  🔰 Versão: 13/12/2022 Horas: 21:25 🔰\n
 •••••••••••••••••••••••••••••••••••••••\n
 ⚠️ ATUALIZAÇÃO NOVAS CONEXÕES ⚠️ \n
 •••••••••••••••••••••••••••••••••••••••\n
@@ -47,6 +47,16 @@
         }
     ],
     "Networks": [
+        {
+             "Name": "📱VIVO 13/12/2022",
+             "FLAG": "vivo",
+             "Payload": "JRTNET- wss://help.cloudflareclient.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+             "SNI": "help.cloudflareclient.com",
+             "TlsIP": "help.cloudflareclient.com",
+             "ProxyIP": "",
+             "ProxyPort": "443",
+             "Info": "Tlsws"
+        },
         { 
              "Name": "VIVO CLOUD ✅",
              "FLAG": "vivo",
