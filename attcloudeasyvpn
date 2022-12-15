@@ -1,5 +1,5 @@
 {
-    "Version": "25",
+    "Version": "26",
     "ReleaseNotes": "
 ➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n •••••••••••••••••••••••••••••••••••••\n
   🔰 Versão: 15/12/2022 Horas: 13:25 🔰\n
@@ -51,9 +51,9 @@
       "Name": "💙 TIM DIRECT", 
       "FLAG": "tim", 
       "Payload": "[protocol] \n\n/", 
-      "SNI": "seu_ip", 
-      "TlsIP": "seu_ip", 
-      "ProxyIP": "seu_ip", 
+      "SNI": "", 
+      "TlsIP": "", 
+      "ProxyIP": "[app_host]", 
       "ProxyPort": "80", 
       "Info": "Proxy" 
     },
