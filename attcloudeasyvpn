@@ -1,5 +1,5 @@
 {
-    "Version": "27",
+    "Version": "28",
     "ReleaseNotes": "
 ➡️ ATUALIZAÇÃO DISPONÍVEL ⬅️\n •••••••••••••••••••••••••••••••••••••\n
   🔰 Versão: 15/12/2022 Horas: 13:25 🔰\n
@@ -47,13 +47,23 @@
         }
     ],
     "Networks": [
+        {
+"Name": "TIM | [UNY SERVE02]",
+"FLAG": "tim",
+"Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
         { 
       "Name": "💙 TIM DIRECT", 
       "FLAG": "tim", 
       "Payload": "[protocol] \n\n/", 
       "SNI": "", 
       "TlsIP": "", 
-      "ProxyIP": "[app_host]", 
+      "ProxyIP": "", 
       "ProxyPort": "80", 
       "Info": "Proxy" 
     },
