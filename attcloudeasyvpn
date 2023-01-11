@@ -33,17 +33,6 @@
             "SSLPort": "443",
             "USER": "",
             "PASS": ""
-        },
-        {
-            "Name": "SERVIDOR TIM",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "apptest.c6bank.app",
-            "CheckUser": "http://br01check.cloudeasyoficial.xyz:5454/checkUser",
-            "ServerPort": "22",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
         }
     ],
     "Networks": [
